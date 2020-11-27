@@ -20,11 +20,22 @@ Likewise, there exists a similar index for emerging market debt, namely the Bank
 
 ![em_hy_corp.png](img/em_hy_corp.png)
 
-Normally when we refer to stocks, the term Price-to-Earnings (P/E) is used to describe valuation. However, some participants prefer to use the recriprocal, which provides the Earnings Yield (E/P). 
+Normally when we refer to stocks, the term Price-to-Earnings (P/E) is used to describe valuation. However, some participants prefer to use the recriprocal, which provides the Earnings Yield (E/P). The chart below shows the earnings yield for the S&P 500 Index. 
 
 ![sp500_ey.png](img/sp500_ey.png)
 
-When we combine all of these charts onto one plot, we can see important relationships between the different financial instruments. 
+When we combine all of these charts onto one plot, we can see important relationships between the different financial instruments. The US 10YR is consistently the lowest yielding asset followed by the S&P 500. High yield bonds are the most risky. 
 
 ![yields_99.png](img/yields_99.png)
 
+During tumultuous times, these relationships can magnify and/or change completely. The chart below focuses on the disruptions in the market caused by Coronavirus earlier this year. 
+
+![yields_1920.png](img/yields_1920.png)
+
+The Great Recession of 2007-2009 caused even stronger reactions in financial markets.
+
+![yields_0710.png](img/yields_0710.png)
+
+The severity of the Great Recession prompted, who is largely a dormant participant, to enter the financial markets, namely the Federal Reserve Bank. In 2007, the FRB began providing liquidity to the markets by buying illiquid and defunct securities (mostly Treasuries and Mortgage Backed Securities). The Federal Reserve Bank's balance sheet has grown from $750 billion in 2007 to $7.25 trillion today. 
+
+![yields_fed_99.png](img/yields_fed_99.png)

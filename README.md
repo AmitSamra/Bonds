@@ -28,7 +28,7 @@ When we combine all of these charts onto one plot, we can see important relation
 
 ![yields_99.png](img/yields_99.png)
 
-During tumultuous times, these relationships can magnify and/or change completely. The chart below focuses on the disruptions in the market caused by Coronavirus earlier this year. 
+During tumultuous times, these relationships can magnify and/or change completely. The chart below focuses on the disruptions in the market caused by Coronavirus in 2020. 
 
 ![yields_1920.png](img/yields_1920.png)
 

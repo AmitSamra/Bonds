@@ -36,7 +36,7 @@ The Great Recession of 2007-2009 caused even stronger reactions in financial mar
 
 ![yields_0710.png](img/yields_0710.png)
 
-The severity of the Great Recession prompted another player, who is normally a dormant participant, to enter the financial markets, namely the Federal Reserve Bank. In 2007, the FRB began providing liquidity to the markets by buying illiquid and defunct securities (mostly Treasuries and Mortgage Backed Securities). The Federal Reserve Bank's balance sheet has grown from $750 billion in 2007 to $7.25 trillion as of Nov 2020. 
+The severity of the Great Recession prompted another player, who is normally a dormant participant, to enter the financial markets, namely the Federal Reserve Bank. In 2007, the FRB began providing liquidity to the markets by buying illiquid and defunct securities (mostly Treasuries and Mortgage Backed Securities). The Federal Reserve Bank's balance sheet has grown from $750 billion in 2007 to $7.4 trillion as of Jan 2021. 
 
 ![yields_fed_99.png](img/yields_fed_99.png)
 
